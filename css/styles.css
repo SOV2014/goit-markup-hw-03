@@ -318,6 +318,7 @@ ol {
   text-transform: uppercase;
   color: #4d5ae5;
   display: inline-block;
+  margin-bottom: 16px;
 }
 
 .footer-logo-color {
@@ -327,7 +328,6 @@ ol {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #f4f4fd;
-  margin-bottom: 16px;
 }
 
 .footer-text {
