@@ -133,7 +133,6 @@ ol {
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
-  max-width: 496px;
 }
 
 .box-button {
@@ -144,10 +143,6 @@ ol {
   color: #ffffff;
   background-color: #4d5ae5;
   cursor: pointer;
-  display: block;
-  min-width: 169px;
-  height: 56px;
-  border: none;
 }
 .box-button:hover,
 .box-button:focus {
