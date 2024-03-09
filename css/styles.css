@@ -148,6 +148,7 @@ ol {
   background-color: #404bbf;
 }
 
+/* ===================Main================ */
 .advanteges {
 }
 
@@ -170,8 +171,7 @@ ol {
   letter-spacing: 0.02em;
   color: #434455;
 }
-
-/* ==================Team================= */
+/* ===========Team=========== */
 .visually-hidden {
   position: absolute;
   width: 1px;
