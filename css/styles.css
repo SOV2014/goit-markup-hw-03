@@ -209,6 +209,7 @@ ol {
 } */
 .team {
   background-color: #f4f4fd;
+  padding: 120px 0;
 }
 .advanteges-item-list {
   width: calc((100% - 72px) / 4);
@@ -222,13 +223,22 @@ ol {
   text-transform: capitalize;
   text-align: center;
   color: #2e2f42;
+  margin-bottom: 72px;
 }
 
 .team-list {
+  display: flex;
+  gap: 24px;
 }
 
 .team-item {
   background-color: #ffffff;
+  width: calc((100% - 72px) / 4);
+  border-radius: 0px 0px 4px 4px;
+}
+/* Mark-Guerrero */
+.Mark-Guerrero {
+  padding: 32px 0;
 }
 
 .team-item-name {
